@@ -1,3 +1,4 @@
 {
-  "cashfree_enabled": false
+  "cashfree_enabled": true,
+  "wipe_credentials": false
 }
